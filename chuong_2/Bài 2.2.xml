@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<students>
+    <code>22174600078</code>
+    <name>
+        <fname>Thanh</fname>
+        <lname>Nguyen Dang</lname>
+    </name>
+    <Date>12/08/2004</Date>
+    <Class>DHKL16A2HN</Class>
+    <gender>male</gender>
+</students>

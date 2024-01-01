@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<company>
+    <director>
+        <fname>A</fname>
+        <lname>Nguyen Van</lname> 
+    </director>
+    <address>
+        <city>Ha Noi</city>
+        <District>Hoang Mai</District>
+        <Ward>Linh Nam</Ward>
+        <Street>296 Linh Nam</Street>
+        <HouseNumber>2</HouseNumber>
+    </address>
+    <phonnumber>0355135217</phonnumber>
+    <taxcode>0318582379</taxcode> 
+</company>
